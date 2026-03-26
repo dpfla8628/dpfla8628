@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/CSS3-%20-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-%20-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Node.js-%20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FSD-%20-FF6B35?style=for-the-badge"/>
 </p>
 
 ### Big Data & Data Engineering
@@ -73,6 +74,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%20-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-%20-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-%20-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -95,9 +97,23 @@
   <img src="https://img.shields.io/badge/Jira-%20-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-%20-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-%20-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-%20-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-%20-FC6D26?style=for-the-badge&logo=gitlab&logoColo
+r=white"/>
 </p>
 
+### AI
+<p>
+  <img src="https://img.shields.io/badge/Claude-%20-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-%20-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-%20-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-%20-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-%20-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-%20-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-%20-246beb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%20-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SpecKit-%20-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDD-%20-6DB33F?style=for-the-badge"/>
+</p>
 ---
 
 ## 📈 GitHub Stats
