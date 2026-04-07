@@ -17,6 +17,12 @@
   </a>
 </p>
 
+<p>
+  <a href="https://podokungya.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
