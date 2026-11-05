@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:246beb,100:6a5cff&height=240&section=header&text=Yerim%20Lee&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%7C%20Data%20Platform%20%26%20Backend&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:246beb,100:6a5cff&height=240&section=header&text=Yerim%20Lee&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%7C%20Data%20Platform%20and%20Backend&descAlignY=60&descSize=18" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=246BEB&center=true&vCenter=true&width=820&lines=6%EB%85%84%EC%B0%A8+Full-stack+Developer;Kafka+%E2%80%A2+Spark+%E2%80%A2+Druid+Pipelines+at+Scale;Java%2FSpring+%2B+Python%2FFastAPI+%2B+Next.js%2FVue;AI-driven+Development+%26+Verification+Gates" />
