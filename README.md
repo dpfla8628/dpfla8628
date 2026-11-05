@@ -17,18 +17,9 @@
 ---
 
 ## 👋 About
-
-반복되는 일은 **자동화**하고, 사람은 판단이 필요한 일에 집중하게 만드는 풀스택 개발자입니다.
-데이터 플랫폼을 **설계부터 운영까지** 책임지며, "어떻게 하면 더 적은 손으로 더 안정적으로 돌릴까"를 먼저 고민합니다.
-
-### ⚙️ 효율적으로 일하는 방식
-- **수작업을 파이프라인으로** — Kafka·Spark 수집 파이프라인, Telegraf 커스텀 이미지 자동 배포, 협력사 권한 자동 회수 배치 등 반복 작업을 코드로 전환
-- **AI는 맡기고, 검증은 게이트로** — Claude Code · git worktree 병렬 개발에 lint·타입 검사·단위 시험·현행 값 대조 게이트를 붙여 AI 산출물을 믿을 수 있게 관리
-- **이관·검수도 자동화** — 레거시 BI 화면 이관 파이프라인, 피그마 시안 → 토큰 적용 → 화면 대조까지 잇는 스킬 구현
-- **문서와 프로세스로 남기기** — Jira·Confluence, Git 커밋 컨벤션을 팀에 처음 도입해 개인 노하우를 팀 자산으로
-
-### 🔎 요즘 관심사
-Automation · Developer Productivity · AI-driven Development · Data Pipelines · Observability · Incident Prevention
+- I build systems where **reliability, performance, and operability** matter.
+- I like working efficiently: if I do something twice, I **automate** it.
+- Interested in **Automation / Data Pipelines / Observability / Performance Tuning / Incident Prevention**
 
 ---
 
